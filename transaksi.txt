@@ -1,0 +1,1 @@
+id;jenis;plat;gerbangMasuk;waktuMasuk;gerbangKeluar;waktuKeluar;metode;noKartu;saldo;tid;biaya
